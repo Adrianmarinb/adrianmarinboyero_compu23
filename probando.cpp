@@ -6,13 +6,13 @@ using namespace std;
 int main()
 {
     cout << " Introduce un valor para a: ";
-    int a, c;
+    int a, d;
     int result;
 
     cin >> a;
-    c = 6;
+    d = 6;
 
-    result = a - c;
+    result = a - d;
 
     cout << result << " Adrián es muy guapo";
 
